@@ -7,4 +7,4 @@
 ## 模型列表
 
 ### 01. MNNIST 手写数字识别
-![MNIST tensorboard](./images/001_MNIST_board.png)
+![MNIST tensorboard](./imgs/001_MNIST_board.png)
