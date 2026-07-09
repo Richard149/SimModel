@@ -1,0 +1,4 @@
+# TensorBoard 日志文件
+001_MNIST/checkpoint/
+001_MNIST/runs/
+001_MNIST/MNIST/
